@@ -46,6 +46,8 @@
           <configuration>
                 <fork>true</fork>
                 <executable>/root/jdk1.8.0_301/bin/javac.exe</executable>
+            <source>1.8.0_301</source>
+            <target>1.8.0_301</target>
                
             </configuration>
         </plugin>
