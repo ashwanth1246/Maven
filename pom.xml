@@ -41,7 +41,7 @@
           <version>3.0.2</version>
           <configuration>
                 <fork>true</fork>
-                <executable>/root/jdk1.8.0_301/bin/javac.exe</executable>
+                <executable>/root/jdk1.8.0_301/bin/javaw.exe</executable>
             </configuration>
         </plugin>
         <plugin>
