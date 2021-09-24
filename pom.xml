@@ -44,7 +44,7 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
                          
-              <executable>/root/jdk1.8.0_301/bin/javac.exe</executable>
+              
            
         </plugin>
         <plugin>
